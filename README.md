@@ -1,1 +1,1 @@
-# Energy monitoring dashboard 
+# Energy monitoring dashboard
